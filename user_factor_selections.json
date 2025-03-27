@@ -1,0 +1,59 @@
+{
+    "user_123": {
+        "我的因子列表1": {
+            "unselected_system": [
+                "MA_5",
+                "MA_20",
+                "MA_50",
+                "MA_200",
+                "EMA_5",
+                "EMA_20",
+                "RSI_Signal",
+                "MACD_Diff",
+                "Bollinger_Position",
+                "K_D_Diff",
+                "CCI_20",
+                "Williams_%R_14",
+                "OBV",
+                "VWAP",
+                "ZScore_20",
+                "Plus_DI",
+                "Minus_DI",
+                "ADX_14",
+                "Bollinger_Width",
+                "MFI_14",
+                "CMF_20",
+                "TRIX_15",
+                "Ultimate_Osc",
+                "Chaikin_Osc",
+                "PPO",
+                "DPO_20",
+                "KST",
+                "KST_signal",
+                "KAMA_10",
+                "ConsecutiveUp",
+                "ConsecutiveDown",
+                "Cross_MA5_Count",
+                "Volume_Spike_Count",
+                "Close",
+                "Pch",
+                "Volume_Change",
+                "Price_Mean_Diff",
+                "High_Mean_Diff",
+                "Low_Mean_Diff",
+                "one"
+            ],
+            "selected_system": [
+                "Close_MA5_Diff",
+                "MA5_MA20_Diff",
+                "Slope_MA5"
+            ],
+            "selected_custom": [
+                "250日均线"
+            ],
+            "selected_custom_func_name": [
+                "generate_features_20231008_123456"
+            ]
+        }
+    }
+}

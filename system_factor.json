@@ -1,0 +1,53 @@
+{
+    "均线指标": {
+        "Close_MA5_Diff": "收盘价与5日均线差值",
+        "MA5_MA20_Diff": "5日均线与20日均线差值",
+        "MA_5": "5日均线",
+        "MA_20": "20日均线",
+        "MA_50": "50日均线",
+        "MA_200": "200日均线",
+        "EMA_5": "5日指数移动均线",
+        "EMA_20": "20日指数移动均线",
+        "Slope_MA5": "5日均线斜率"
+    },
+    "技术指标": {
+        "RSI_Signal": "RSI信号",
+        "MACD_Diff": "MACD差值",
+        "Bollinger_Position": "布林带位置",
+        "K_D_Diff": "K线与D线差值",
+        "CCI_20": "20周期CCI",
+        "Williams_%R_14": "14周期威廉指标",
+        "OBV": "能量潮",
+        "VWAP": "成交量加权平均价",
+        "ZScore_20": "20周期Z分数",
+        "Plus_DI": "正方向指标",
+        "Minus_DI": "负方向指标",
+        "ADX_14": "14周期ADX",
+        "Bollinger_Width": "布林带宽度",
+        "MFI_14": "14周期MFI",
+        "CMF_20": "20周期CMF",
+        "TRIX_15": "15周期TRIX",
+        "Ultimate_Osc": "终极振荡指标",
+        "Chaikin_Osc": "Chaikin振荡指标",
+        "PPO": "PPO指标",
+        "DPO_20": "20周期DPO",
+        "KST": "KST指标",
+        "KST_signal": "KST信号",
+        "KAMA_10": "10周期KAMA"
+    },
+    "价格与成交量": {
+        "ConsecutiveUp": "连续上涨天数",
+        "ConsecutiveDown": "连续下跌天数",
+        "Cross_MA5_Count": "穿越5日均线次数",
+        "Volume_Spike_Count": "成交量激增次数",
+        "Close": "收盘价",
+        "Pch": "价格变动",
+        "Volume_Change": "成交量变化",
+        "Price_Mean_Diff": "价格均值差异",
+        "High_Mean_Diff": "最高价均值差异",
+        "Low_Mean_Diff": "最低价均值差异"
+    },
+    "其他": {
+        "one": "因子一"
+    }
+}
